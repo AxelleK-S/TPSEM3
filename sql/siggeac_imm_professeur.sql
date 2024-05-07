@@ -1,13 +1,18 @@
 /*
 -- =========================================================================== A
 Produit : SIGGEAC
-Artefact : siggeac_imm_cours.sql
+Artefact : siggeac_imm_professeur.sql
 Statut : travail en cours
 Plateformes : PostgreSQL 12+
 -- =========================================================================== A
 */
 
+--  Professeur
+--  TODO 2021-03-19 (LL01) : Ajouter, retirer, modifier un professeur
 
+--  Ajouter, retirer : une compétence, une disponibilité ou une affectation à un professeur.
+--
+--  TODO 2021-03-19 (LL01) : Ajouter, retirer : une compétence, une disponibilité ou une affectation à un professeur.
 
 /*
 -- =========================================================================== Z

@@ -7,6 +7,21 @@ Plateformes : PostgreSQL 12+
 -- =========================================================================== A
 */
 
+--  Étudiant
+--  TODO 2021-03-19 (LL01) : Ajouter, retirer, modifier un étudiant
+
+--  Groupe
+--  TODO 2021-03-19 (LL01) : Ajouter, retirer, modifier un groupe
+
+--  Ajouter, retirer : une inscription d’un étudiant à un groupe.
+--
+--  TODO 2021-03-19 (LL01) : Ajouter, retirer : une inscription d’un étudiant à un groupe.
+
+--
+--  Attribuer, modifier : une note à un étudiant en regard d’une inscription à un groupe.
+--
+--  TODO 2021-03-19 (LL01) : Attribuer, modifier : une note à un étudiant en regard d’une inscription à un groupe.
+
 
 
 /*

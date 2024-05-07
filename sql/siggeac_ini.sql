@@ -39,6 +39,14 @@ create schema "IMM_etudiant" ;
 --
 drop schema if exists  "IMM_offreService" cascade ;
 create schema "IMM_offreService" ;
+
+--
+--  Définir l’interface machine-machine IMM_base pour la base de données Universite
+--  Les autorisations d’accès seront faites par ailleurs
+--  (voir fichier Universite_IMM_base.acc.sql dans une version subséquente).
+--
+drop schema if exists  "IMM_professeur" cascade ;
+create schema "IMM_professeur" ;
 /*
 -- =========================================================================== Z
 
