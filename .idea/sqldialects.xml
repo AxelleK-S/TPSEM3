@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/M1-20240503/M1_A_pub.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter05/src/sql/000_Universite_ini.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter05/src/sql/010_Universite_MDD_types.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter05/src/sql/020_Universite_MDD_tables.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter05/src/sql/030_Universite_IMM_base.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter05/test/sql/sql.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter06/src/sql/000_Universite_ini.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter06/src/sql/010_Universite_MDD_types.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter06/src/sql/020_Universite_MDD_tables.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter06/src/sql/030_Universite_IMM_base.sql" dialect="PostgreSQL" />
+    <file url="file://D:/X3/semestre 2 BDD Sherbrooke/Semaine 3/TP-S3/Universite-20240503/iter06/test/sql/sql.sql" dialect="PostgreSQL" />
+  </component>
+</project>
